@@ -1,0 +1,8 @@
+
+.side-panel {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .overlay {
+    transition: opacity 0.3s ease;
+  }
